@@ -13,3 +13,4 @@ Marker color reflects the depth of the earthquake
 Popups provide additional information about each earthquake
 Includes a legend for context
 
+<img width="1125" alt="Screenshot 2023-05-16 at 9 14 31 PM" src="https://github.com/sunderiyab/leaflet-challenge/assets/123790798/05283b71-aa71-4112-8939-77dade9d3486">
